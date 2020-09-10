@@ -75,9 +75,9 @@ draft: false
   <div class="item-date">
     <span class="company-date">Oct 2019 - now</span>
   </div>
-  <div class="item-description">
-    <p>I work on the main customer facing marketplace product that enables people to rent cars. Major projects included security deposits that saved nearly $1M monthly to the company. Self-rebooking feature that enables renters to rebook their trips themselves. Ongoing development of new features and improvements that empower both Web and Mobile clients to provide the best user experience.</p>
-    <p class="skills">#python #flask #restapi #microservices #gcp</p>
+   <div class="item-description">
+    <p>I'm empowering people to carshare everywhere, by using Python (Flask) to build backend functionality of the main customer facing marketplace product.</p>
+    <p class="skills">#python #flask #apis #microservices #gcp</p>
   </div>
 </div>
 
