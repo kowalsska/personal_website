@@ -1,8 +1,9 @@
 ---
-title: "Work experience"
-date: 2018-12-16T21:22:35+01:00
+title: "Work"
+date: 2020-09-06T21:09:48-10:00
 draft: false
 ---
+
 <style type="text/css">
 .item-container {
   display: grid;
@@ -76,7 +77,7 @@ draft: false
     <span class="company-date">Oct 2019 - now</span>
   </div>
    <div class="item-description">
-    <p>I'm empowering people to carshare everywhere, by using Python (Flask) to build backend functionality of the main customer facing marketplace product.</p>
+    <p>I empower people to carshare everywhere by building backend functionality of the main customer facing marketplace product. I use Python (Flask) to add new features, build a robust API that supports mobile and web clients, create new microservices and integrate with third party tools.</p>
     <p class="skills">#python #flask #apis #microservices #gcp</p>
   </div>
 </div>
@@ -108,7 +109,7 @@ draft: false
     <span class="company-date">Apr 2018 - Jun 2019</span>
   </div>
   <div class="item-description">
-    <p>Working remotely as a Full Stack Engineer, I used Python (Flask, MySQL) and Javascript (Vue.js, jQuery, HTML, CSS) to create a super cool website that aims at reducing California's carbon footprint by encouraging people to cut down on their electricity consumption during power plants' peak demand times. I was responsible for various API integrations, such as Nest or Tesla API.</p>
+    <p>I used Python (Flask, MySQL) and Javascript (Vue.js, jQuery, HTML, CSS) to create a super cool website that aims at reducing California's carbon footprint by encouraging people to cut down on their electricity consumption during power plants' peak demand times. I was responsible for various API integrations, such as Nest or Tesla API.</p>
     <p class="skills">#python #flask #mysql #javascript #vuejs #html #css</p>
   </div>
 </div>

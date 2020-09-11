@@ -1,10 +1,7 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "public"]
-	path = public
-	url = git@github.com:kowalsska/kowalsska.github.io.git
-	branch = master
 [submodule "themes/cocoa-hugo-theme"]
 	path = themes/cocoa-hugo-theme
 	url = https://github.com/nishanths/cocoa-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/kowalsska/kowalsska.github.io.git
+	branch = master
