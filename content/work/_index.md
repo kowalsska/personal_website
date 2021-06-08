@@ -68,17 +68,33 @@ draft: false
 
 <div class="item-container">
   <div class=item-avatar>
+    <img class="avatar" height="50px" src='/img/weavegrid.png'>
+  </div>
+  <div class="item-name">
+    <span class="company-name">Software Engineer at <a href="https://www.weavegrid.com/">WeaveGrid</a></span>
+  </div>
+  <div class="item-date">
+    <span class="company-date">June 2021 - now</span>
+  </div>
+   <div class="item-description">
+    <p>Using software to decarbonize the electrical grid and enable greater EV adoption.</p>
+    <p class="skills">#python #flask #microservices #aws #oem #climatetech</p>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class=item-avatar>
     <img class="avatar" height="50px" src='/img/getaround.png'>
   </div>
   <div class="item-name">
     <span class="company-name">Backend Software Engineer at <a href="https://www.getaround.com/">Getaround</a></span>
   </div>
   <div class="item-date">
-    <span class="company-date">Oct 2019 - now</span>
+    <span class="company-date">Oct 2019 - April 2021</span>
   </div>
    <div class="item-description">
-    <p>I empower people to carshare everywhere by building backend functionality of the main customer facing marketplace product. I use Python (Flask) to add new features, build a robust API that supports mobile and web clients, create new microservices and integrate with third party tools.</p>
-    <p class="skills">#python #flask #apis #microservices #gcp</p>
+    <p>I empowered people to carshare everywhere by building backend functionality of the main customer facing marketplace product. I used Python (Flask) to add new features, build a robust API that supports mobile and web clients, create new microservices and integrate with third party tools.</p>
+    <p class="skills">#python #flask #apis #gcp</p>
   </div>
 </div>
 

@@ -78,3 +78,8 @@ avatar                 = "img/profile.jpg" # path to image in static dir e.g img
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[module]
+
+  [[module.imports]]
+    path = "github.com/nishanths/cocoa-hugo-theme"
