@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Magda Kowalska</title>
+    <link>https://kowalsska.github.io/projects/</link>
+    <description>Recent content in Projects on Magda Kowalska</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Dec 2018 21:37:31 +0100</lastBuildDate><atom:link href="https://kowalsska.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FemEng in Rwanda</title>
+      <link>https://kowalsska.github.io/projects/project_fem_eng_rwanda/</link>
+      <pubDate>Sat, 08 Aug 2020 09:43:57 +0100</pubDate>
+      
+      <guid>https://kowalsska.github.io/projects/project_fem_eng_rwanda/</guid>
+      <description>In 2015 I lucky to be invited by the FemEng (Female Engineering) society from University of Glasgow to help them organise their first edition of &amp;ldquo;FemEng in Rwanda&amp;rdquo; project. We collaborated with students from University of Rwanda in Kigali and organised workshops about science and engineering for school girls in the Kigali area.
+With the mix of aspiring engineers specialising in different fields we created workshops about Biomedical, Mechanical, Civil, Aerospace and Software engineering.</description>
+    </item>
+    
+    <item>
+      <title>Teleport</title>
+      <link>https://kowalsska.github.io/projects/project_teleport/</link>
+      <pubDate>Sat, 08 Aug 2020 09:43:57 +0100</pubDate>
+      
+      <guid>https://kowalsska.github.io/projects/project_teleport/</guid>
+      <description>As my final year university project I decided to develop a mobile app. It&amp;rsquo;s a location based photo sharing app that I called Teleport. The project aimed at researching a new way through which people could communicate with each other. Taking into account all the existing photo sharing and communication apps, I came up with a novel idea where the users can request content from anywhere on a map and receive pictures of the locations that are only visible for a limited amount of time.</description>
+    </item>
+    
+  </channel>
+</rss>
