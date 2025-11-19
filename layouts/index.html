@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+            {{ if .Content }}
+                <div class="markdown">
+                    {{ .Content }}
+                </div>
+            {{ end }}
+            
+            <div class="page-heading">Latest Posts</div>
+            <ul>
+                {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
+                    {{ partial "li.html" . }}
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
