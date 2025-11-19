@@ -164,7 +164,7 @@ draft: false
 
 <div class="item-container">
   <div class="item-avatar">
-    <img class="avatar" height="50px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORATwaXDC5wclnBoPe1wazADE2kQX8vRK_rlifqFhQlrvRt3E'>
+    <img class="avatar" height="50px" src='/img/ms-logo.png'>
   </div>
   <div class="item-name">
     <span class="company-name">Software Engineer Associate at <a href="https://www.morganstanley.com/">Morgan Stanley</a></span>
@@ -180,7 +180,7 @@ draft: false
 
 <div class="item-container">
   <div class="item-avatar">
-    <img class="avatar" height="50px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORATwaXDC5wclnBoPe1wazADE2kQX8vRK_rlifqFhQlrvRt3E'>
+    <img class="avatar" height="50px" src='/img/ms-logo.png'>
   </div>
   <div class="item-name">
     <span class="company-name">Software Engineer Intern at <a href="https://www.morganstanley.com/">Morgan Stanley</a></span>
@@ -196,7 +196,7 @@ draft: false
 
 <div class="item-container">
   <div class="item-avatar">
-    <img class="avatar" height="50px" src='https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/e3/2a/37/e32a37c3-4a23-b3b2-c137-b64ef2df8d82/Explain_PRO-0-1x_U007emarketing-0-0-85-220-0-6.png/246x0w.jpg'>
+    <img class="avatar" height="50px" src='/img/explain-logo.jpg'>
   </div>
   <div class="item-name">
     <span class="company-name">Software Engineer Intern at <a href="https://explaineverything.com/">Explain Everything</a></span>
