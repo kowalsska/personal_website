@@ -77,8 +77,8 @@ draft: false
     <span class="company-date">Sep 2023 - Aug 2025</span>
   </div>
    <div class="item-description">
-    <p>Led multiple critical infrastructure initiatives that transformed code quality and system performance across the organization. Architected and implemented a centralized notification service that consolidated email and text messaging functionality, spearheaded an organization-wide database optimization project that enhanced query performance and established sustainable data access patterns throughout the codebase, directed a comprehensive testing infrastructure overhaul, standardizing unit testing practices.</p>
-    <p class="skills">#python #flask #fastapi #react #graphql #aws</p>
+    <p>I led multiple critical infrastructure initiatives that transformed code quality and system performance across the organization. I implemented a centralized notification service that consolidated email and text messaging functionality, spearheaded an organization-wide data access project to enhance database performance and data access patterns throughout the codebase, directed a backend testing infrastructure overhaul to standardize unit testing practices.</p>
+    <p class="skills">#python #flask #react #graphql #aws #postgres</p>
   </div>
 </div>
 
@@ -93,8 +93,8 @@ draft: false
     <span class="company-date">Jun 2021 - Aug 2023</span>
   </div>
    <div class="item-description">
-    <p>Drove integration efforts with major automotive OEMs including Kia, Hyundai, GM, ChargePoint, and Wallbox, directly expanding user acquisition channels and market reach. Designed and launched an external API enabling OEM applications to provide real-time charge cost calculations to their users. Mentored and managed junior engineers, fostering technical growth while delivering high-impact integrations that connected millions of EV drivers to the platform.</p>
-    <p class="skills">#python #flask #fastapi #microservices #aws #oem #climatetech</p>
+    <p>I drove integration efforts with new OEMs such as Kia, Hyundai, Toyota, ChargePoint, Wallbox to work alongside the Tesla integration. THe work invloved reverse engineering of the APIs and researching exisiting solutions in order to reliably connect those OEMs to the WeaveGrid's system. I implemented a data pipeline that fetched telemetry data from tens of thousands of vehicles. I worked with Toyota to implement an external API exposing cost of charge information.</p>
+    <p class="skills">#python #flask #fastapi #api #aws #dynamodb</p>
   </div>
 </div>
 
@@ -109,8 +109,8 @@ draft: false
     <span class="company-date">Oct 2019 - Apr 2021</span>
   </div>
    <div class="item-description">
-    <p>I empowered people to carshare everywhere by building backend functionality of the main customer facing marketplace product. I used Python (Flask) to add new features, build a robust API that supports mobile and web clients, create new microservices and integrate with third party tools.</p>
-    <p class="skills">#python #flask #apis #gcp</p>
+    <p>I helped the company to empower people to carshare everywhere by building backend functionality of the main customer facing marketplace product. I used Python (Flask) to add new features, build a robust API that supports mobile and web clients, created new microservices and integrate with third party tools.</p>
+    <p class="skills">#python #flask #api #gcp</p>
   </div>
 </div>
 
