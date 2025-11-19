@@ -2,29 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Magda Kowalska</title>
-    <link>https://kowalsska.github.io/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Magda Kowalska</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Dec 2018 21:37:31 +0100</lastBuildDate><atom:link href="https://kowalsska.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2020 09:43:57 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FemEng in Rwanda</title>
-      <link>https://kowalsska.github.io/projects/project_fem_eng_rwanda/</link>
+      <link>http://localhost:1313/projects/project_fem_eng_rwanda/</link>
       <pubDate>Sat, 08 Aug 2020 09:43:57 +0100</pubDate>
-      
-      <guid>https://kowalsska.github.io/projects/project_fem_eng_rwanda/</guid>
-      <description>In 2015 I lucky to be invited by the FemEng (Female Engineering) society from University of Glasgow to help them organise their first edition of &amp;ldquo;FemEng in Rwanda&amp;rdquo; project. We collaborated with students from University of Rwanda in Kigali and organised workshops about science and engineering for school girls in the Kigali area.
-With the mix of aspiring engineers specialising in different fields we created workshops about Biomedical, Mechanical, Civil, Aerospace and Software engineering.</description>
+      <guid>http://localhost:1313/projects/project_fem_eng_rwanda/</guid>
+      <description>&lt;img src=&#34;../../img/rwanda5.jpg&#34;&gt;&#xA;&lt;p&gt;In 2015 I lucky to be invited by the FemEng (Female Engineering) society from University of Glasgow to help them organise their first edition of &amp;ldquo;FemEng in Rwanda&amp;rdquo; project. We collaborated with students from University of Rwanda in Kigali and organised workshops about science and engineering for school girls in the Kigali area.&lt;/p&gt;&#xA;&lt;img src=&#34;../../img/rwanda3.jpg&#34;&gt;&#xA;&lt;p&gt;With the mix of aspiring engineers specialising in different fields we created workshops about Biomedical, Mechanical, Civil, Aerospace and Software engineering. As well as Product Design and Renewable Energy and Water engineering. As the only software engineer on the team, I was responsible for running the Software Engineering workshop. Thanks to the University of Rwanda we were able to run the workshop at the computer science lab on campus. I decided to give a short presentation about computer science, programming and different career paths. Then a quick intro to Scratch programming followed by a hands on programming session using Scratch. It was incredible to see the girls being excited about their programs running and doing different things on the screen as well as playing sounds. Some of the participants of the workshop never used a computer before and it was incredible to see how quickly they could pick up Scratch.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Teleport</title>
-      <link>https://kowalsska.github.io/projects/project_teleport/</link>
+      <link>http://localhost:1313/projects/project_teleport/</link>
       <pubDate>Sat, 08 Aug 2020 09:43:57 +0100</pubDate>
-      
-      <guid>https://kowalsska.github.io/projects/project_teleport/</guid>
-      <description>As my final year university project I decided to develop a mobile app. It&amp;rsquo;s a location based photo sharing app that I called Teleport. The project aimed at researching a new way through which people could communicate with each other. Taking into account all the existing photo sharing and communication apps, I came up with a novel idea where the users can request content from anywhere on a map and receive pictures of the locations that are only visible for a limited amount of time.</description>
+      <guid>http://localhost:1313/projects/project_teleport/</guid>
+      <description>&lt;img src=&#34;../../img/teleport.png&#34;&gt;&#xA;&lt;p&gt;As my final year university project I decided to develop a mobile app. It&amp;rsquo;s a location based photo sharing app that I called Teleport. The project aimed at researching a new way through which people could communicate with each other. Taking into account all the existing photo sharing and communication apps, I came up with a novel idea where the users can request content from anywhere on a map and receive pictures of the locations that are only visible for a limited amount of time. Basically, the app allows you to &lt;span style=&#39;font-style: italic&#39;&gt;teleport&lt;/span&gt; wherever you want using your phone and the help of community that uses the app.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

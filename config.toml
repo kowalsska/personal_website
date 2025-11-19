@@ -5,7 +5,6 @@ contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "public"
-theme               = "cocoa-hugo-theme"
 author              = "Magda Kowalska"
 title               = "Magda Kowalska"
 pygmentsuseclasses  = true
@@ -39,7 +38,7 @@ identifier             = "location"
 url                    = "/location/"
 
 [params]
-include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
+include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
 latestpostscount       = 5                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "Magda Kowalska"
@@ -53,7 +52,6 @@ faviconfile            = "img/leaf.ico"
 github                 = "//github.com/kowalsska"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/kowalsska"
-angel			   	   = "//angel.co/kowalsska"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = ""                            # appears in the site header when set to a non-empty string
 

@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Magda Kowalska</title>
-    <link>https://kowalsska.github.io/blog/</link>
-    <description>Recent content in Blog on Magda Kowalska</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Posts on Magda Kowalska</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Posts on Magda Kowalska</description>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate><atom:link href="https://kowalsska.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 17:28:50 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY: How to check that global warming is real</title>
+      <link>http://localhost:1313/blog/diy-how-to-check-that-global-warming-is-real/</link>
+      <pubDate>Sun, 18 Oct 2020 17:28:50 +0100</pubDate>
+      <guid>http://localhost:1313/blog/diy-how-to-check-that-global-warming-is-real/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;&#xA;  .row {&#xA;    display: flex;&#xA;    justify-content: space-between;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve never done any data science but today I had a chance to watch a few talks from the &lt;a href=&#34;http://www.compsust.net/compsust-2020/&#34;&gt;2020 Computational Sustainability Conference&lt;/a&gt; and felt inspired to checkout the Python pandas package and see what I can do with it.&lt;/p&gt;&#xA;&lt;p&gt;Looking for interesting sources of data I stumbled upon the National Oceanic and Atmospheric Administration website that allows you to download (for free!) historical weather data (&lt;a href=&#34;https://www.ncdc.noaa.gov/cdo-web/search&#34;&gt;&lt;a href=&#34;https://www.ncdc.noaa.gov/cdo-web/search&#34;&gt;https://www.ncdc.noaa.gov/cdo-web/search&lt;/a&gt;&lt;/a&gt;) for many different locations around the world. Some of the data sets go as far as early XX century. How cool!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My campervan conversion</title>
-      <link>https://kowalsska.github.io/blog/my-campervan-conversion/</link>
+      <link>http://localhost:1313/blog/my-campervan-conversion/</link>
       <pubDate>Sun, 16 Dec 2018 17:28:50 +0100</pubDate>
-      
-      <guid>https://kowalsska.github.io/blog/my-campervan-conversion/</guid>
-      <description>.row { display: flex; justify-content: space-between; }  In June 2017 I got a 2010 Opel Movano with the idea of turning it into a mobile home and moving into and driving it all across Europe(and possibly beyond). Having spent a big chunk of my childhood traveling in a campervan with my family, it seemed like an obvious thing to do. After an initial first month of working on the van I didn&amp;rsquo;t get very far but was super stoked on the idea.</description>
+      <guid>http://localhost:1313/blog/my-campervan-conversion/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;&#xA;  .row {&#xA;    display: flex;&#xA;    justify-content: space-between;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;In June 2017 I got a 2010 Opel Movano with the idea of turning it into a mobile home and moving into and driving it all across Europe(and possibly beyond). Having spent a big chunk of my childhood traveling in a campervan with my family, it seemed like an obvious thing to do. After an initial first month of working on the van I didn&amp;rsquo;t get very far but was super stoked on the idea. In the end it led me to the decision of quitting my job at Morgan Stanley, moving back home to Poland and focusing entirely on the van. My friend came over and stayed for over a month, helping me out throughout the process.&#xA;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

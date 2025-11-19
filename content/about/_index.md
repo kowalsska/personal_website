@@ -5,11 +5,15 @@ title = "About Me"
 
 +++
 
-Hi there, I'm Magda. 
-I work as a Software Engineer at <a href="https://www.weavegrid.com/">WeaveGrid</a>, a company that uses machine learning to inteligently connect electric vehicles to the grid with the goal of reducing their environmental impact and to protect the grid during peak demand hours. <br><br>
-In my free time I surf, climb or search for adventure in my van. Before moving to US in 2019, I worked remotely as a Full Stack Engineer at <a href="https://www.ohmconnect.com/">OhmConnect</a> while driving my van across Europe to Morocco.
-Hope you find my website interesting. <br><br>
-Please feel free to get in touch if you have any questions.. 
+Hi there, I'm Magda. <br>
+
+I'm a Senior Software Engineer with over 8 years of experience building scalable systems that solve real problems. My expertise lies in Python, distributed systems, and database optimization—the kind of infrastructure work that makes complex applications feel effortless to users. <br>
+
+I've worked across diverse industries, from healthcare technology at GrowTherapy to electric vehicle infrastructure at WeaveGrid, mobility platforms at Getaround, and smart home technology at Awair and OhmConnect. <br>
+
+This journey took me through the Bay Area and NYC startup scenes between 2019 and 2025, and I recently moved back to Europe, now based on the coast of Portugal.<br>
+
+I'm drawn to technology that addresses systemic challenges: AI ethics and algorithmic transparency, cryptocurrency's potential to expand financial access for underserved communities, and climate tech that accelerates the clean energy transition. These represent the kinds of meaningful problems I want to dedicate my engineering skills toward solving. <br>
 
 <img src="https://i.imgur.com/3v4gEcU.jpg">
 

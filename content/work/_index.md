@@ -1,5 +1,5 @@
 ---
-title: "Work"
+title: "Work Experience"
 date: 2020-09-06T21:09:48-10:00
 draft: false
 ---
@@ -68,17 +68,33 @@ draft: false
 
 <div class="item-container">
   <div class=item-avatar>
-    <img class="avatar" height="50px" src='/img/weavegrid.png'>
+    <img class="avatar" height="50px" src='/img/grow-logo.jpg'>
   </div>
   <div class="item-name">
-    <span class="company-name">Software Engineer at <a href="https://www.weavegrid.com/">WeaveGrid</a></span>
+    <span class="company-name">Senior Software Engineer at <a href="https://www.growtherapy.com/">GrowTherapy</a></span>
   </div>
   <div class="item-date">
-    <span class="company-date">June 2021 - now</span>
+    <span class="company-date">Sep 2023 - Aug 2025</span>
   </div>
    <div class="item-description">
-    <p>Using software to decarbonize the electrical grid and enable greater EV adoption.</p>
-    <p class="skills">#python #flask #microservices #aws #oem #climatetech</p>
+    <p>Led multiple critical infrastructure initiatives that transformed code quality and system performance across the organization. Architected and implemented a centralized notification service that consolidated email and text messaging functionality, spearheaded an organization-wide database optimization project that enhanced query performance and established sustainable data access patterns throughout the codebase, directed a comprehensive testing infrastructure overhaul, standardizing unit testing practices.</p>
+    <p class="skills">#python #flask #fastapi #react #graphql #aws</p>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class=item-avatar>
+    <img class="avatar" height="50px" src='/img/weavegrid-logo.jpeg'>
+  </div>
+  <div class="item-name">
+    <span class="company-name">Senior Software Engineer at <a href="https://www.weavegrid.com/">WeaveGrid</a></span>
+  </div>
+  <div class="item-date">
+    <span class="company-date">Jun 2021 - Aug 2023</span>
+  </div>
+   <div class="item-description">
+    <p>Drove integration efforts with major automotive OEMs including Kia, Hyundai, GM, ChargePoint, and Wallbox, directly expanding user acquisition channels and market reach. Designed and launched an external API enabling OEM applications to provide real-time charge cost calculations to their users. Mentored and managed junior engineers, fostering technical growth while delivering high-impact integrations that connected millions of EV drivers to the platform.</p>
+    <p class="skills">#python #flask #fastapi #microservices #aws #oem #climatetech</p>
   </div>
 </div>
 
@@ -87,10 +103,10 @@ draft: false
     <img class="avatar" height="50px" src='/img/getaround.png'>
   </div>
   <div class="item-name">
-    <span class="company-name">Backend Software Engineer at <a href="https://www.getaround.com/">Getaround</a></span>
+    <span class="company-name">Software Engineer at <a href="https://www.getaround.com/">Getaround</a></span>
   </div>
   <div class="item-date">
-    <span class="company-date">Oct 2019 - April 2021</span>
+    <span class="company-date">Oct 2019 - Apr 2021</span>
   </div>
    <div class="item-description">
     <p>I empowered people to carshare everywhere by building backend functionality of the main customer facing marketplace product. I used Python (Flask) to add new features, build a robust API that supports mobile and web clients, create new microservices and integrate with third party tools.</p>
@@ -100,7 +116,7 @@ draft: false
 
 <div class="item-container">
   <div class=item-avatar>
-    <img class="avatar" height="50px" src='https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/wgprcqeo0hfbl1opdeh0'>
+    <img class="avatar" height="50px" src='/img/awair-logo.webp'>
   </div>
   <div class="item-name">
     <span class="company-name">Software Engineer at <a href="https://www.getawair.com/">Awair</a></span>
@@ -116,10 +132,10 @@ draft: false
 
 <div class="item-container">
   <div class=item-avatar>
-    <img class="avatar" height="50px" src='https://www.mymoneyblog.com/wordpress/wp-content/uploads/2017/05/ohmlogo.gif'>
+    <img class="avatar" height="50px" src='/img/ohmconnect-logo.jpg'>
   </div>
   <div class="item-name">
-    <span class="company-name">Full Stack Engineer at <a href="https://www.ohmconnect.com/">Ohm Connect</a></span>
+    <span class="company-name">Software Engineer at <a href="https://www.ohmconnect.com/">OhmConnect</a></span>
   </div>
   <div class="item-date">
     <span class="company-date">Apr 2018 - Jun 2019</span>
@@ -132,7 +148,7 @@ draft: false
 
 <div class="item-container">
   <div class="item-avatar">
-    <img class="avatar" height="50px" src='https://theturingtrust.files.wordpress.com/2018/03/code-your-future1.jpg'>
+    <img class="avatar" height="50px" src='/img/code-logo.png'>
   </div>
   <div class="item-name">
     <span class="company-name">Mentor at <a href="https://codeyourfuture.io/">Code Your Future</a></span>
@@ -151,13 +167,13 @@ draft: false
     <img class="avatar" height="50px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORATwaXDC5wclnBoPe1wazADE2kQX8vRK_rlifqFhQlrvRt3E'>
   </div>
   <div class="item-name">
-    <span class="company-name">Software Developer Associate at <a href="https://www.morganstanley.com/">Morgan Stanley</a></span>
+    <span class="company-name">Software Engineer Associate at <a href="https://www.morganstanley.com/">Morgan Stanley</a></span>
   </div>
   <div class="item-date">
     <span class="company-date">Aug 2016 - Sep 2017</span>
   </div>
   <div class="item-description">
-    <p>I worked in MS Development Environment Team and created a tool for automating software decommission process. It was challenging but boring at the same time. Apparently it was going to save millions of dollars for the company... At least I got to learn a lot of Python and Typescript along the way. P.S. Please don't contact me with offers from the finance industry.</p>
+    <p>I worked in MS Development Environment Team and created a tool for automating software decommission process. It was challenging but boring at the same time. Apparently it was going to save millions of dollars for the company. At least I got to learn a lot of Python and Typescript along the way.</p>
     <p class="skills">#python #scala #javascript #angular2 #html #css</p>
   </div>
 </div>
@@ -167,7 +183,7 @@ draft: false
     <img class="avatar" height="50px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORATwaXDC5wclnBoPe1wazADE2kQX8vRK_rlifqFhQlrvRt3E'>
   </div>
   <div class="item-name">
-    <span class="company-name">Software Developer Intern at <a href="https://www.morganstanley.com/">Morgan Stanley</a></span>
+    <span class="company-name">Software Engineer Intern at <a href="https://www.morganstanley.com/">Morgan Stanley</a></span>
   </div>
   <div class="item-date">
     <span class="company-date">Jun 2015 - Sep 2015</span>
@@ -183,7 +199,7 @@ draft: false
     <img class="avatar" height="50px" src='https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/e3/2a/37/e32a37c3-4a23-b3b2-c137-b64ef2df8d82/Explain_PRO-0-1x_U007emarketing-0-0-85-220-0-6.png/246x0w.jpg'>
   </div>
   <div class="item-name">
-    <span class="company-name">Software Developer Intern at <a href="https://explaineverything.com/">Explain Everything</a></span>
+    <span class="company-name">Software Engineer Intern at <a href="https://explaineverything.com/">Explain Everything</a></span>
   </div>
   <div class="item-date">
     <span class="company-date">May 2013 - Jun 2013</span>
