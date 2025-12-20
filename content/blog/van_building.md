@@ -6,7 +6,27 @@ draft: false
 <style type="text/css">
   .row {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px -50px;
+    width: calc(100% + 100px);
+  }
+  .row img {
+    flex: 1;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 768px) {
+    .row {
+      flex-direction: column;
+      margin: 20px 0;
+      width: 100%;
+      gap: 15px;
+    }
+    .row img {
+      width: 100%;
+    }
   }
 </style>
 

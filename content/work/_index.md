@@ -157,7 +157,7 @@ draft: false
     <span class="company-date">Jun 2017 - Sep 2017</span>
   </div>
   <div class="item-description">
-    <p>I volunteered as a mentor/teacher in weekly coding classes for asylum seekers living in Scotland. Currently teaching Javascript.</p>
+    <p>I volunteered as a mentor/teacher in weekly coding classes for asylum seekers living in Scotland. Taught Javascript and React.</p>
     <p class="skills">#javascript #teaching</p>
   </div>
 </div>
@@ -206,6 +206,6 @@ draft: false
   </div>
   <div class="item-description">
     <p>In a team of QA engineers we came up with testing strategy for apps developed at MorrisCooke and I was responsible for testing the apps on iPads and report bugs to software engineers. As a separate task I created a manual for one of the apps using HTML and CSS. I familiarised myself with Xcode and learned about agile software development.</p>
-    <p class="skills">#ios #qa #testing</p>
+    <p class="skills">#ios #qa #testing #mobileapps</p>
   </div>
 </div>
