@@ -11,7 +11,7 @@ draft: false
 </style>
 
 
-I've never done any data science but today I had a chance to watch a few talks from the <a href="http://www.compsust.net/compsust-2020/">2020 Computational Sustainability Conference</a> and felt inspired to checkout the Python pandas package and see what I can do with it.
+I've never done any data science but today I had a chance to watch a few talks from the <a href="https://www.compsust.net/compsust-2020/">2020 Computational Sustainability Conference</a> and felt inspired to checkout the Python pandas package and see what I can do with it.
 
 
 Looking for interesting sources of data I stumbled upon the National Oceanic and Atmospheric Administration website that allows you to download (for free!) historical weather data (<a href="https://www.ncdc.noaa.gov/cdo-web/search">https://www.ncdc.noaa.gov/cdo-web/search</a>) for many different locations around the world. Some of the data sets go as far as early XX century. How cool!

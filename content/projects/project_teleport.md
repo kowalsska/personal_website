@@ -9,4 +9,3 @@ As my final year university project I decided to develop a mobile app. It's a lo
 
 <img src="../../img/teleport_design.png">
 
-More text to come once I find relevant pictures and screenshots...
