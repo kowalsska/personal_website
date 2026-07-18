@@ -68,6 +68,22 @@ draft: false
 
 <div class="item-container">
   <div class=item-avatar>
+    <img class="avatar" height="50px" src='/img/fence-finance-logo.jpeg'>
+  </div>
+  <div class="item-name">
+    <span class="company-name">Product Engineer at <a href="https://www.fencefinance.com/">Fence Finance</a></span>
+  </div>
+  <div class="item-date">
+    <span class="company-date">Mar 2026 - Present</span>
+  </div>
+   <div class="item-description">
+    <p>Fence replaces spreadsheets and manual bank transfers with APIs and smart contracts to automate institutional debt facility operations. I build backend systems and smart contracts that encode complex financial rules into auditable software and power APIs for real-time capital movements. Fence has over $1B in Assets Under Administration, with clients like BBVA, Fortress, and BlackRock.</p>
+    <p class="skills">#python #fastapi #aws #smartcontracts #fintech</p>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class=item-avatar>
     <img class="avatar" height="50px" src='/img/grow-logo.jpg'>
   </div>
   <div class="item-name">

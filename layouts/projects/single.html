@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+            <a href="/projects/" style="display:inline-block; margin-bottom:1.5rem; color:#428bca; font-size:0.9rem;">Back to projects</a>
+            {{ partial "page-heading.html" . }}
+            <div class="markdown">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
