@@ -12,7 +12,7 @@ I surf most mornings. Every morning before paddling out I'd find myself opening 
 
 Ehukai is my answer to that. It's a personal surf intelligence assistant that replaces the whole tab-switching ritual with a single opinionated recommendation.
 
-The name comes from the years I spent living in Hawaii. In Hawaiian, *ehu* means sea spray and *kai* means sea. Ehukai Beach Park sits on the North Shore of Oahu, right in front of Pipeline, and if you've stood on that beach on a big swell day you've felt exactly what the name describes. It felt like the right word for a tool that tries to distil the ocean down to something essential.
+The name comes from the years I spent living in Hawaii. In Hawaiian, *ehukai* means sea spray. Ehukai Beach Park sits on the North Shore of Oahu, right in front of Pipeline, and if you've stood on that beach on a big swell day you've felt exactly what the name describes. It's a place I have a lot of memories associated with, and it happens to contain "AI" in it, so it felt like the perfect name for my product.
 
 ## What it does
 
