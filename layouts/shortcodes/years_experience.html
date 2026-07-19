@@ -1,0 +1,2 @@
+{{- $startYear := .Get 0 | default 2017 -}}
+{{- sub now.Year (int $startYear) -}}
